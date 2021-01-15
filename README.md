@@ -17,9 +17,9 @@ In the following scheme you can see the directory structure of our repository, c
 ```python
 ├── README.md                                                                     <- The top-level README for users using this project.
 ├── data
-│   ├── big.txt                                                            <- Data related to the features of the training dataset.
-│   ├── labeled_data.csv                                                   <- Data related to the labels of the training dataset.
-│   ├── refined_ngram.csv                                                  <- Data related to the features of the test dataset.
+│   ├── @big.txt                                                            <- Data related to the features of the training dataset.
+│   ├── @labeled_data.csv                                                   <- Data related to the labels of the training dataset.
+│   ├── @refined_ngram.csv                                                  <- Data related to the features of the test dataset.
 |   └── pickles
 │       ├── preprocessed_tweets.pickle                                     <- Data related to the tweets after preprocessing.
 |       └── other_features.pickle                                          <- Data related to other features that have been calculating during preprocessing.
