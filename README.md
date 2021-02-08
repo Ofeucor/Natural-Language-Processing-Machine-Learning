@@ -25,7 +25,7 @@ In the following scheme you can see the directory structure of our repository, c
 |       └── other_features.pickle                                          <- Data related to other features that have been calculating during preprocessing.
 │
 ├── notebook
-│   └── Supervised_Learning_High_Line_Machine_Learning.ipynb                      <- High line containing the model that gives us the best results.
+│   └── Natural_Language_Processing_Machine_Learning.ipynb                  <- High line containing the model that gives us the best results.
 │
 └── reports      
     ├── report.pdf                                                                <- Report describing the process and techniques used.
@@ -48,4 +48,4 @@ Once every cell has been executed, you'll be able to visualize the results of ap
 
 Finally, here you can find some links that may be useful. These links correspond to the cloud versions of the notebook in the repository.
 
-* [Supervised Learning: Base Line - Machine Learning](https://colab.research.google.com/drive/1Djc_IIkVi0dvFdNQN1xlL8-KEi9JStIf?usp=sharing)
+* [Natural_Language_Processing_Machine_Learning](https://colab.research.google.com/drive/1Ac2x9tCcSK9NRt0mN7oW5sais6gDQj5O?usp=sharing)
